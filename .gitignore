@@ -1,0 +1,8 @@
+new.py
+prac.py
+telebot_dbPro.sql
+.env.local
+.env.production
+__pycache__/
+tempCodeRunnerFile.py
+venv/
